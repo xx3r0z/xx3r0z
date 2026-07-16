@@ -1,5 +1,5 @@
-IG: tiijothobi
-LinkedIn: https://www.linkedin.com/in/ifeanyi-joseph-ogbonnah/
+-IG: tiijothobi
+-LinkedIn: https://www.linkedin.com/in/ifeanyi-joseph-ogbonnah/
 
 <!---
 xx3r0z/xx3r0z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
