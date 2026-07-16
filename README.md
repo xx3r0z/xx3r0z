@@ -1,5 +1,4 @@
--IG: tiijothobi
--LinkedIn: https://www.linkedin.com/in/ifeanyi-joseph-ogbonnah/
+Hi I am Ifeanyichukwu
 
 <!---
 xx3r0z/xx3r0z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
